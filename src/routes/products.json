@@ -1,0 +1,55 @@
+[
+	{
+		"id": 001,
+		"title": "cartuchera",
+		"description": "estampado animal print",
+		"price": 547,
+		"thumbnail": [
+			"http"
+		],
+		"code": "17082005",
+		"stock": 7,
+		"status": true,
+		"category": "utiles escolares"
+	},
+	{
+		"id": 002,
+		"title": "cuaderno",
+		"description": "cuadriculado tapa dura",
+		"price": 430,
+		"thumbnail": [
+			"http"
+		],
+		"code": "18091963",
+		"stock": 8,
+		"status": true,
+		"category": "utiles escolares"
+	},
+
+	{
+		"id": 003,
+		"title": "lapicera ",
+		"description": "bic tinta azul",
+		"price": 100,
+		"thumbnail": [
+			"http"
+		],
+		"code": "10091965",
+		"stock": 46,
+		"status": true,
+		"category": "utiles escolares"
+	},
+	{
+		"id": 004,
+		"title": "escuadra",
+		"description": "trasparente 15 cm",
+		"price": 150,
+		"thumbnail": [
+			"http"
+		],
+		"code": "31102001",
+		"stock": 23,
+		"status": true,
+		"category": "utiles escolares"
+	}
+]
